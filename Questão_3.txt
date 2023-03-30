@@ -1,0 +1,6 @@
+A)9 somando 2 ao numero inicial então: Os proximos numeros da sequencia são 9,11,13...
+B)128 Sempre soma o numero a ele mesmo(ou multiplica por 2) então o proximo numero da sequencia é: 128
+c)49 Vai somando o numero anterior a numeros imapares sempre aumentando o numero impar que somamos, começa com 3 nesse caso o proximo é: 36 + 13 = 49
+d)100 Essa sequência é formada pelos quadrados dos números pares consecutivos, começando por 2 nesse caso o proximo numero é: 100
+e)21 É uma sequência de Fibonacci, então o proximo numero é: 8 + 13 = 21
+f)200 Os numeros da listas são apenas numeros que começam com a letra "D" sendo assim o proximo é: 200(Duzentos)

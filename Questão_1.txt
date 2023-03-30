@@ -1,0 +1,4 @@
+Irá printar "91" 
+SOMA = 91
+K = 13
+INDICE = 13
